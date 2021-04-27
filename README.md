@@ -9,7 +9,7 @@
 
 1. 首页
 
-![首页](D:\face_test\Face_Recognition\test\首页.png)
+![首页](test/首页.png)
 
 2. 录入人脸信息
 
