@@ -13,11 +13,11 @@
 
 2. 录入人脸信息
 
-   ![点击新建录入](D:\face_test\Face_Recognition\test\点击新建录入.png)
+   ![点击新建录入](test/点击新建录入.png)
 
 3. 人脸识别打卡
 
-   ![点击开始签到](D:\face_test\Face_Recognition\test\点击开始签到.png)
+   ![点击开始签到](test/点击开始打卡.png)
 
 4. 输出日志
 
