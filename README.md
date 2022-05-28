@@ -1,7 +1,7 @@
 # 人脸识别打卡系统
 ## 介绍
 
-本仓库是使用python编写的一个简单的人脸识别考勤打卡系统
+本仓库是使用python编写的一个简单的人脸识别考勤打卡系统，参考了仓库：https://github.com/inspurer/WorkAttendanceSystem
 
 主要功能有录入人脸信息、人脸识别打卡、设置上下班时间、导出打卡日志等
 
